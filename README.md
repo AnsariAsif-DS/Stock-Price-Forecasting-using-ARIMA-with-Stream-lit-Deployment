@@ -50,6 +50,4 @@ Statsmodels
 Matplotlib
 Streamlit
 
-│── data/                # Dataset files
-│── notebooks/           # Jupyter notebooks (EDA & experiments)
-│── model/               # Saved ARIMA model (
+
